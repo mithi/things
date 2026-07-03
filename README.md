@@ -75,7 +75,7 @@ Before web engineering, I helped build physical things — robots for art exhibi
 
 ### Plant Cyborgs — with artist Daniel Slåttnes (2017, 2020)
 
-A robotic body moved by a houseplant's own biosignals — artist Daniel Slåttnes' work exhibited in events like Meta.Morf X Biennale (2020) and the Arctic Arts Festival (2021). I was commissioned to do calibration, movement programming, and sensors/electronics integration support.
+A robotic body moved by a houseplant's own biosignals — Norwegian artist Daniel Slåttnes' work exhibited in events like Meta.Morf X Biennale (2020) and the Arctic Arts Festival (2021). I was commissioned to do calibration, movement programming, and sensors/electronics integration support.
 
 - 🔗 [Daniel Slåttnes Official Website](https://slaattnes.com/)
 
