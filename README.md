@@ -30,7 +30,7 @@ An _extremely_ lightweight [hexapod simulator](https://github.com/mithi) that yo
 
 - [🔗 👀 Look! A collection of places where Mithi's Hexapod Robot Simulator was mentioned](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md)
 
-| <img src="./gif/hexapod-1.gif" alt="drawing" width="400" /> | <img src="./gif/hexapod-4.gif" alt="drawing" width="400" /> |
+| <img src="./gif/hexapod-1.gif" alt="drawing" width="50%" /> | <img src="./gif/hexapod-4.gif" alt="drawing" width="50%" /> |
 | ----------------------------------------------------------- | ----------------------------------------------------------- |
 | .                                                           | .                                                           |
 
@@ -99,9 +99,9 @@ A robotic body moved by a houseplant's own biosignals — artist Daniel Slåttne
 
 A ~$30 100% open-source robot designed to make early STEM education accessible — CAD files, PCB designs, and lesson plans all freely downloadable.
 
-| ![image](./gif/maya-1.GIF)       | ![image](./gif/maya-2.GIF)   |
-| -------------------------------- | ---------------------------- |
-| ![image](./img/maya-blender.jpg) | ![image](./img/maya-cad.png) |
+| ![image](./gif/maya-1.GIF)                                     | ![image](./gif/maya-2.GIF)                                 |
+| -------------------------------------------------------------- | ---------------------------------------------------------- |
+| <img src="./img/maya-blender.jpg" alt="drawing" width="50%" /> | <img src="./img/maya-cad.png" alt="drawing" width="50%" /> |
 
 Maya is the flagship project of Nanica Labs (2014–2016), the robotics education startup I co-founded — a Top 3% finalist (of 500+ applicants) in the [IdeaSpace](https://www.ideaspace.vc/) Startup Competition 2016.
 
