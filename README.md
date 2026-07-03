@@ -25,7 +25,7 @@ One of [Datature](https://datature.io/)'s core capabilities: specialized models 
 
 ### Hexapod Robot Simulator (2020)
 
-An _extremely_ lightweight [simulator](https://github.com/mithi) that you can run it on a low-end phone — lowering the barrier to exploring inverse kinematics and walking gaits. Featured on Hacker News, Adafruit, and Weekly Robotics among others and found a positive reception in maker communities, notably inspiring a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) in China.
+An _extremely_ lightweight [simulator](https://github.com/mithi) that you can run it on low-end phones — lowering the barrier to exploring inverse kinematics and walking gaits. Featured on Hacker News, Adafruit, and Weekly Robotics among others and found a positive reception in maker communities, notably inspiring a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) in China.
 
 - 🔗 👀 [Look! A collection of places where Hexapod Robot Simulator was mentioned](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md)
 
@@ -54,7 +54,7 @@ At PikaPikaGems, I own product design of two language learning tools from concep
 ## Early Talks and Workshops
 
 1. Malicious Attacks to Neural Networks: Adversarial Examples for Humans. Trend Micro Philippines Decode Event, 2018
-   - 📖 [Transcript](https://github.com/mithi/sdc-talk)
+   - 📖 [Transcript](https://medium.com/@mithi/malicious-attacks-to-neural-networks-8b966793dfe1)
 
 2. DIY Self-Racing Cars: A workshop problem-solving philosophy, machine learning intuitions, and behavioral cloning. Delivered to Trend Micro Philippines 2018.
    - 🔖 [Slides, Materials](https://github.com/mithi/sdc-talk)
@@ -71,7 +71,7 @@ At PikaPikaGems, I own product design of two language learning tools from concep
 
 ## Creative Hardware and Early Robotics Education
 
-Before web engineering, I helped build physical things — robots for classrooms, ad agencies, and art collaborations.
+Before web engineering, I helped build physical things — robots for art exhibitions, ad agencies, and classrooms.
 
 ### Plant Cyborgs — with artist Daniel Slåttnes (2017, 2020)
 
@@ -98,6 +98,8 @@ This child-sized robot with features such as autonomous navigation, person detec
 
 A ~$30 100% open-source robot designed to make early STEM education accessible — CAD files, PCB designs, and lesson plans all freely downloadable.
 
+- 🔖 [Maya Artifacts (Materials)](https://github.com/nanicalabs/robot-maya)
+
 <table>
   <tr>
     <td width="50%"><img src="./gif/maya-1.GIF" width="100%"></td>
@@ -111,7 +113,6 @@ A ~$30 100% open-source robot designed to make early STEM education accessible �
 
 Maya is the flagship project of Nanica Labs (2014–2016), the robotics education startup I co-founded — a top 3% finalist (of 500+ applicants) in the [IdeaSpace](https://www.ideaspace.vc/) Startup Competition 2016.
 
-- 🔖 [Maya Artifacts (Materials)](https://github.com/nanicalabs/robot-maya)
 - 📺 [Watch: Looking Back: Nanica Year-end Video](https://www.youtube.com/watch?v=rtS7y3G6EyI) (~3 minutes)
 - 📺 [Watch: Ideaspace Pitch](https://www.youtube.com/watch?v=hNzD0EEuWf8) (~2 minutes)
 - 🔗 [Nanica's Official Blog](https://medium.com/@nanicalabs)
