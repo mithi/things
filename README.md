@@ -1,6 +1,6 @@
 # (Mithi) Shulamith Sevilla - Selected Works
 
-Hi, I'm Mithi — a frontend engineer and former robotics teacher / creative technologist. Currently, I'm most interested in designing and developing human-AI interfaces that leave people more skillful, more deliberate, and happier than they found them. [View My Resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing). [View My Github](https://github.com/mithi/).
+Hi, I'm Mithi — a frontend engineer and former robotics teacher / creative technologist. Currently, I'm most interested in designing and developing human-AI interfaces that leave people more skillful, more deliberate, and happier than they found them. [My Resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing). [My GitHub](https://github.com/mithi/).
 
 Here are some things I helped bring to life.
 
@@ -15,22 +15,22 @@ Here are some things I helped bring to life.
 
 ### AI Assisted Annotation Tools (2022 - 2024)
 
-One of [Datature](https://datature.io/)'s core capabilities: AI-assisted annotation, where specialized models turn painstaking manual outlining into a few clicks. I led the UX design and implementation, working with backend and ML engineers.
+One of [Datature](https://datature.io/)'s core capabilities: AI-assisted annotation, where specialized models turn painstaking manual outlining into a few clicks. I led the UX design and implementation, working closely with backend and ML engineers.
 
 | ![image](https://mithi.github.io/robotics-blog/v2-ik-ui.gif) | ![image](https://mithi.github.io/robotics-blog/v2-kinematics-ui.gif) |
 | ------------------------------------------------------------ | -------------------------------------------------------------------- |
 | .                                                            | .                                                                    |
 
-- [📺 👀 Watch: Some interfaces I built at Datature (2-minutes)](https://www.youtube.com/watch?v=33zJy7tHo3w)
+- [📺 👀 Watch: Some interfaces I built at Datature](https://www.youtube.com/watch?v=33zJy7tHo3w) (2-minutes)
 - 📖 Datature Developer Docs: [Video Tracking](https://developers.datature.io/docs/video-tracking), [Everything Mode](https://developers.datature.io/docs/everything), [Intellibrush](https://developers.datature.io/docs/intellibrush)
 
 ### Hexapod Robot Simulator (2020)
 
-A [hexapod simulator](https://github.com/mithi) so light-weight you can run it on a low-end phone — lowering the barrier to exploring inverse kinematics and walking gaits. Inspired a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) and [featured on Hacker News, Adafruit, and Weekly Robotics](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md).
+A [hexapod simulator](https://github.com/mithi) so light-weight you can run it on a low-end phone — lowering the barrier to exploring inverse kinematics and walking gaits. [Featured on Hacker News, Adafruit, and Weekly Robotics](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md), found a positive reception in maker communities, notably inspired a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) .
 
-| ![image](./gif/hexapod-1.gif) | ![image](./gif/hexapod-4.gif) |
-| ----------------------------- | ----------------------------- |
-| .                             | .                             |
+| ![image](./gif/hexapod-1.gif) | ![image](./gif/hexapod-2.gif) | ![image](./gif/hexapod-4.gif) |
+| ----------------------------- | ----------------------------- | ----------------------------- |
+| .                             | .                             | .                             |
 
 ### React Philosophies (2021)
 
@@ -45,11 +45,11 @@ At PikaPikaGems, I own product design of two language learning tools from concep
 
 ## Early Talks and Workshops
 
-1. Malicious Attacks to Neural Networks: Adversarial Examples for Humans ([📖 👀 Transcript](https://github.com/mithi/sdc-talk)) — Trend Micro Philippines Decode Event, 2018
-2. DIY Self-Racing Cars ([🔖 👀 Slides, Materials](https://github.com/mithi/sdc-talk)): A workshop problem-solving philosophy, machine learning intuitions, and behavioral cloning. Delivered to Trend Micro Philippines 2018.
-3. Udacity Self Driving Cars Lessons [📺 👀 Watch: Session One: Advanced Lane Lines (~10 minutes)](https://youtu.be/UbtnLhvMA8E)— I was one of three session leads hired to faciliate learning of Senior employees at Infosys India 2017. [📖 👀 Read about my experience](https://medium.com/@mithi/2f3995130249)
-4. Create Tech Sessions: Reimagining Consumer Experiences with Creative Technology [📺 👀 Watch: Session One: Hardware 101 (~10 minutes, ⚠️ no sound)](https://www.youtube.com/watch?v=BNNJ5k0AFH0) . I conducted sessions to help creatives at Dentsu Jyme Syfu ideate how technology can be creatively applied to brand campaigns. 2016
-5. A Raspberry Pi Hexy: How I Practiced Clean Code and Made a Hexapod Robot Dance ([📖 👀 Transcript](https://medium.com/@mithi/a-raspberry-pi-hexy-transcript-62533c69a566)) — Python Conference Philippines 2016
+1. Malicious Attacks to Neural Networks: Adversarial Examples for Humans ~ [📖 👀 Transcript](https://github.com/mithi/sdc-talk). Trend Micro Philippines Decode Event, 2018
+2. DIY Self-Racing Cars ~ [🔖 👀 Slides, Materials](https://github.com/mithi/sdc-talk). A workshop problem-solving philosophy, machine learning intuitions, and behavioral cloning. Delivered to Trend Micro Philippines 2018.
+3. Udacity Self Driving Cars Lessons ~ [📺 👀 Watch: Session One](https://youtu.be/UbtnLhvMA8E) (~10 minutes). I was one of three session leads hired to faciliate learning of Senior employees at Infosys India 2017. [📖 👀 Read about my experience](https://medium.com/@mithi/2f3995130249)
+4. Create Tech Sessions: Reimagining Consumer Experiences with Creative Technology ~ [📺 👀 Watch: Session One](https://www.youtube.com/watch?v=BNNJ5k0AFH0) (~10 minutes, ⚠️ no sound). I conducted sessions to help creatives at Dentsu Jyme Syfu ideate how technology can be creatively applied to brand campaigns, 2016
+5. A Raspberry Pi Hexy: How I Practiced Clean Code and Made a Hexapod Robot Dance ~ [📖 👀 Transcript](https://medium.com/@mithi/a-raspberry-pi-hexy-transcript-62533c69a566) — Python Conference Philippines 2016
 
 ## Creative Hardware and Early Robotics Education
 
@@ -67,7 +67,7 @@ This child-sized robot with autonomous navigation, person detection, and voice i
 
 ### Plant Cyborgs — with artist Daniel Slåttnes (2017, 2020)
 
-A robotic body moved by a houseplant's own biosignals — artist Daniel Slåttnes' work exhibited in events like at Meta.Morf X Biennale (2020) and the Arctic Arts Festival (2021). I was commissioned to do calibration, movement programming, and sensors and electronic integration support.
+A robotic body moved by a houseplant's own biosignals — artist Daniel Slåttnes' work exhibited in events like Meta.Morf X Biennale (2020) and the Arctic Arts Festival (2021). I was commissioned to do calibration, movement programming, and sensors/electronics integration support.
 
 | ![image](./gif/plant-cyborgs-1.GIF) | ![image](./gif/plant-cyborgs-2.GIF) |
 | ----------------------------------- | ----------------------------------- |
@@ -79,14 +79,15 @@ A robotic body moved by a houseplant's own biosignals — artist Daniel Slåttne
 
 A ~$30 100% open-source robot designed to make early STEM education accessible — CAD files, PCB designs, and lesson plans all freely downloadable.
 
-| ![image](./gif/maya-1.GIF) | ![image](./gif/maya-2.GIF) |
-| -------------------------- | -------------------------- |
-| .                          | .                          |
+| ![image](./gif/maya-1.GIF)       | ![image](./gif/maya-2.GIF)   |
+| -------------------------------- | ---------------------------- |
+| ![image](./img/maya-blender.GIF) | ![image](./img/maya-cad.GIF) |
 
 Maya is the flagship project of Nanica Labs (2014–2016), the robotics education startup I co-founded — a Top 3% finalist (of 500+ applicants) in the IdeaSpace Startup Competition 2016.
 
 - [🔖 👀: Maya Artifacts (Materials)](https://github.com/nanicalabs/robot-maya)
 - [📺 👀 Watch: Looking Back: Nanica Year-end Video (~3 minutes)](https://www.youtube.com/watch?v=rtS7y3G6EyI)
 - [📺 👀 Watch: Ideaspace Pitch (2 minutes)](https://www.youtube.com/watch?v=hNzD0EEuWf8)
+- [🔗 Nanica's Official Blog](https://medium.com/@nanicalabs)
 
 _Last updated: July 2026_
