@@ -32,18 +32,18 @@ An _extremely_ lightweight [hexapod simulator](https://github.com/mithi) that yo
 
 <table>
   <colgroup>
-    <col style="width:50%">
-    <col style="width:50%">
+    <col style="width:25%">
+    <col style="width:25%">
+    <col style="width:25%">
+    <col style="width:25%">
   </colgroup>
   <tr>
     <td><img src="./gif/hexapod-1.gif" width="100%"></td>
+    <td><img src="./gif/hexapod-2.gif" width="100%"></td>
+    <td><img src="./gif/hexapod-3.gif" width="100%"></td>
     <td><img src="./gif/hexapod-4.gif" width="100%"></td>
-  </tr>
-  <tr>
-    <td>.</td>
-    <td>.</td>
-  </tr>
 
+  </tr>
 </table>
 
 ### React Philosophies (2021)
@@ -106,16 +106,16 @@ A robotic body moved by a houseplant's own biosignals — artist Daniel Slåttne
 
 A ~$30 100% open-source robot designed to make early STEM education accessible — CAD files, PCB designs, and lesson plans all freely downloadable.
 
+| ![image](./gif/maya-1.GIF) | ![image](./maya-2.GIF) |
+| -------------------------- | ---------------------- |
+| .                          | .                      |
+
 <table>
   <colgroup>
     <col style="width:50%">
     <col style="width:50%">
   </colgroup>
   <tr>
-    <td><img src="./gif/maya-1.GIF" width="100%"></td>
-    <td><img src="./gif/maya-2.GIF" width="100%"></td>
-  </tr>
-    <tr>
     <td><img src="./img/maya-blender.jpg" width="100%"></td>
     <td><img src="./img/maya-cad.png" width="100%"></td>
   </tr>
