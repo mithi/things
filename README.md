@@ -46,7 +46,7 @@ An [essay](https://github.com/mithi/react-philosophies) exploring software desig
 
 ### Recent Interactive Tools (2025 - Present)
 
-At PikaPikaGems, I own product design of two language learning tools from concept to execution while helping backend with decisions, architecture, and delivery.
+At PikaPikaGems, I own product design and execution for two tools that support second language acquisition while helping backend with decisions, architecture, and delivery.
 
 1. [ririkku.com](https://ririkku.com) - A Japanese song lyric immersion app with AI text analysis and gamified flashcards.
 2. [kanjiheatmap.com](https://kanjiheatmap.com) - An extremely fast kanji study tool designed with user experience and speed front and center.
