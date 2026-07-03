@@ -1,6 +1,6 @@
 # (Mithi) Shulamith Sevilla - Selected Works 
 
-Hi, I'm Mithi — a frontend engineer and former robotics teacher / creative technologist. I'm most interested in designing and developing human-AI interfaces that leave people more capable, more deliberate, and happier than they found them. [View Resume]().
+Hi, I'm Mithi — a frontend engineer and former robotics teacher / creative technologist. Currently, I'm most interested in designing and developing human-AI interfaces that leave people more skillful, more deliberate, and happier than they found them. [View Resume]().
 
 Here are some things I helped bring to life.
 
@@ -54,8 +54,8 @@ Before web engineering, I helped build physical things — robots for classrooms
 ### Probbie: Dentsu Jayme Syfu's Friendly Robot Receptionist (2016)
 This child-sized robot with autonomous navigation, person detection, and voice interaction helped Dentsu Jayme Syfu win Campaign Southeast Asia's 2016 Creative Agency of the Year. I led programming, electronics selection, and construction.
 
-### Plant Cyborgs  — with artist Daniel Slåttnes (2017, 2021)
-A robotic body moved by a houseplant's own biosignals — artist Daniel Slåttnes' work exhibited at Meta.Morf X Biennale (2020) and the Arctic Arts Festival (2021).  I was commissioned to do calibration, movement programming, and sensors and electronic integration.
+### Plant Cyborgs  — with artist Daniel Slåttnes (2017, 2020)
+A robotic body moved by a houseplant's own biosignals — artist Daniel Slåttnes' work exhibited in events like at Meta.Morf X Biennale (2020) and the Arctic Arts Festival (2021).  I was commissioned to do calibration, movement programming, and sensors and electronic integration.
 
 ### Robot Maya - Affordable Robot For Everyone (2015)
 An robot built to make early robotics education accessible, with CAD files, PCB designs, and lesson plans all freely downloadable.
