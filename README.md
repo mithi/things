@@ -32,9 +32,9 @@ An _extremely_ lightweight [hexapod simulator](https://github.com/mithi) that yo
 
 <table>
   <tr>
-    <td width="35%"><img src="./gif/hexapod-1.gif" width="100%"></td>
-    <td width="40%"><img src="./gif/hexapod-3.gif" width="100%"></td>
-    <td width="25%"><img src="./gif/hexapod-4.gif" width="100%"></td>
+    <td width="25%"><img src="./gif/hexapod-3.gif" width="100%"></td>
+    <td width="35%"><img src="./gif/hexapod-2.gif" width="100%"></td>
+    <td width="40%"><img src="./gif/hexapod-4.gif" width="100%"></td>
 
   </tr>
 </table>
