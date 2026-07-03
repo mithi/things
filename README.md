@@ -30,9 +30,16 @@ An _extremely_ lightweight [hexapod simulator](https://github.com/mithi) that yo
 
 - [🔗 👀 Look! A collection of places where Mithi's Hexapod Robot Simulator was mentioned](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md)
 
-| <img src="./gif/hexapod-1.gif" alt="drawing" width="50%" /> | <img src="./gif/hexapod-4.gif" alt="drawing" width="50%" /> |
-| ----------------------------------------------------------- | ----------------------------------------------------------- |
-| .                                                           | .                                                           |
+<table>
+  <colgroup>
+    <col style="width:50%">
+    <col style="width:50%">
+  </colgroup>
+  <tr>
+    <td><img src="./gif/hexapod-1.gif" width="100%"></td>
+    <td><img src="./gif/hexapod-4.gif" width="100%"></td>
+  </tr>
+</table>
 
 ### React Philosophies (2021)
 
@@ -79,7 +86,7 @@ Before web engineering, I helped build physical things — robots for classrooms
 This child-sized robot with autonomous navigation, person detection, and voice interaction helped[Dentsu Jayme Syfu](http://dentsucreative.ph/) win Campaign Southeast Asia's 2016 Creative Agency of the Year. I was in charge of programming, electronics selection, and overseeing construction.
 
 - [📖 Read about my experience](https://medium.com/@mithi/building-a-voice-activated-robot-for-an-advertising-agency-fedaa9f347d3).
-- [📺 Dentsu Jayme Syfu's Probbie Case Video 2017 ](https://www.youtube.com/watch?v=Vm52cbjBIXY) (10-minutes)
+- [📺 Dentsu Jayme Syfu's Probbie Case Video 2017 ](https://www.youtube.com/watch?v=Vm52cbjBIXY) (2-minutes)
 
 | ![image](./gif/probbie-1.GIF) | ![image](./gif/probbie-2.gif) |
 | ----------------------------- | ----------------------------- |
@@ -99,9 +106,18 @@ A robotic body moved by a houseplant's own biosignals — artist Daniel Slåttne
 
 A ~$30 100% open-source robot designed to make early STEM education accessible — CAD files, PCB designs, and lesson plans all freely downloadable.
 
-| ![image](./gif/maya-1.GIF)                                     | ![image](./gif/maya-2.GIF)                                 |
-| -------------------------------------------------------------- | ---------------------------------------------------------- |
-| <img src="./img/maya-blender.jpg" alt="drawing" width="50%" /> | <img src="./img/maya-cad.png" alt="drawing" width="50%" /> |
+<table>
+  <colgroup>
+    <col style="width:50%">
+    <col style="width:50%">
+  </colgroup>
+  <tr>
+    <td><img src="./gif/maya-1.GIF" width="100%"></td>
+    <td><img src="./gif/maya-2.GIF" width="100%"></td>
+    <td><img src="./img/maya-blender.jpg" width="100%"></td>
+    <td><img src="./img/maya-cad.png" width="100%"></td>
+  </tr>
+</table>
 
 Maya is the flagship project of Nanica Labs (2014–2016), the robotics education startup I co-founded — a Top 3% finalist (of 500+ applicants) in the [IdeaSpace](https://www.ideaspace.vc/) Startup Competition 2016.
 
