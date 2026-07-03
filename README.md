@@ -15,9 +15,9 @@ Below are some things I helped bring to life.
 
 ### AI Assisted Annotation Tools (2022 - 2024)
 
-One of [Datature](https://datature.io/)'s core capabilities: AI-assisted annotation, where specialized models turn painstaking manual outlining into a few clicks. I led the UX implementation and design, working closely with backend and ML engineers.
+One of [Datature](https://datature.io/)'s core capabilities: specialized models turn painstaking manual outlining into a few clicks. I led the UX implementation and design, working closely with backend and ML engineers.
 
-- [📺 👀 Watch: Some interfaces I built at Datature](https://www.youtube.com/watch?v=33zJy7tHo3w) (2-minutes)
+- [📺 👀 Watch: Some interfaces I built at Datature](https://www.youtube.com/watch?v=33zJy7tHo3w) (~2-minutes)
 - 📖 Datature Developer Docs: [Video Tracking](https://developers.datature.io/docs/video-tracking), [Everything Mode](https://developers.datature.io/docs/everything), [Intellibrush](https://developers.datature.io/docs/intellibrush)
 
 | ![image](./gif/datature-horses-clip.GIF)         | ![image](./gif/datature-intellibrush-frog-clip.GIF) |
@@ -26,7 +26,7 @@ One of [Datature](https://datature.io/)'s core capabilities: AI-assisted annotat
 
 ### Hexapod Robot Simulator (2020)
 
-An _extremely_ lightweight [hexapod simulator](https://github.com/mithi) that you can run it on a low-end phone — lowering the barrier to exploring inverse kinematics and walking gaits. Featured on Hacker News, Adafruit, and Weekly Robotics among others and found a positive reception in maker communities, notably inspiring a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) in China.
+An _extremely_ lightweight [simulator](https://github.com/mithi) that you can run it on a low-end phone — lowering the barrier to exploring inverse kinematics and walking gaits. Featured on Hacker News, Adafruit, and Weekly Robotics among others and found a positive reception in maker communities, notably inspiring a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) in China.
 
 - [🔗 👀 Look! A collection of places where Hexapod Robot Simulator was mentioned](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md)
 
@@ -76,7 +76,7 @@ Before web engineering, I helped build physical things — robots for classrooms
 
 ### Probbie: Dentsu Jayme Syfu's Friendly Robot Receptionist (2016)
 
-This child-sized robot with autonomous navigation, person detection, and voice interaction which helped [Dentsu Jayme Syfu](http://dentsucreative.ph/) win Campaign Southeast Asia's 2016 Creative Agency of the Year. I was in charge of programming, electronics selection, and overseeing construction.
+This child-sized robot with features such as autonomous navigation, person detection, and voice interaction helped [Dentsu Jayme Syfu](http://dentsucreative.ph/) win Campaign Southeast Asia's 2016 Creative Agency of the Year. I was in charge of programming, electronics selection, and overseeing construction.
 
 - [📖 Read about my experience](https://medium.com/@mithi/building-a-voice-activated-robot-for-an-advertising-agency-fedaa9f347d3)
 - [📺 Dentsu Jayme Syfu's Probbie Case Video 2017 ](https://www.youtube.com/watch?v=Vm52cbjBIXY) (2-minutes)
@@ -110,11 +110,11 @@ A ~$30 100% open-source robot designed to make early STEM education accessible �
   </tr>
 </table>
 
-Maya is the flagship project of Nanica Labs (2014–2016), the robotics education startup I co-founded — a Top 3% finalist (of 500+ applicants) in the [IdeaSpace](https://www.ideaspace.vc/) Startup Competition 2016.
+Maya is the flagship project of Nanica Labs (2014–2016), the robotics education startup I co-founded — a top 3% finalist (of 500+ applicants) in the [IdeaSpace](https://www.ideaspace.vc/) Startup Competition 2016.
 
 - [🔖 Maya Artifacts (Materials)](https://github.com/nanicalabs/robot-maya)
-- [📺 Watch: Looking Back: Nanica Year-end Video (~3 minutes)](https://www.youtube.com/watch?v=rtS7y3G6EyI)
-- [📺 Watch: Ideaspace Pitch (2 minutes)](https://www.youtube.com/watch?v=hNzD0EEuWf8)
+- [📺 Watch: Looking Back: Nanica Year-end Video](https://www.youtube.com/watch?v=rtS7y3G6EyI) (~3 minutes)
+- [📺 Watch: Ideaspace Pitch](https://www.youtube.com/watch?v=hNzD0EEuWf8) (~2 minutes)
 - [🔗 Nanica's Official Blog](https://medium.com/@nanicalabs)
 
 _Last updated: July 2026_
