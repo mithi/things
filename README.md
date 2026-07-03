@@ -2,7 +2,7 @@
 
 Hi, I'm Mithi — a frontend engineer and former robotics teacher / creative technologist. Currently, I'm most interested in designing and developing human-AI interfaces that leave people more skillful, more deliberate, and happier than they found them. View my [Resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing), [GitHub](https://github.com/mithi/) or [Medium](https://medium.com/@mithi).
 
-Here are some things I helped bring to life.
+Below are some things I helped bring to life.
 
 ## Contents
 
@@ -20,9 +20,9 @@ One of [Datature](https://datature.io/)'s core capabilities: AI-assisted annotat
 - [📺 👀 Watch: Some interfaces I built at Datature](https://www.youtube.com/watch?v=33zJy7tHo3w) (2-minutes)
 - 📖 Datature Developer Docs: [Video Tracking](https://developers.datature.io/docs/video-tracking), [Everything Mode](https://developers.datature.io/docs/everything), [Intellibrush](https://developers.datature.io/docs/intellibrush)
 
-| ![image](./gif/datature-horses-clip.GIF)         | ![image](./gif/datature-intellibrush-flog-clip.GIF) |
+| ![image](./gif/datature-horses-clip.GIF)         | ![image](./gif/datature-intellibrush-frog-clip.GIF) |
 | ------------------------------------------------ | --------------------------------------------------- |
-| ![image](./gif/datature-tracking-shark-clip.GIF) | ![image](./gif/datature-tracking-socher-clip.GIF)   |
+| ![image](./gif/datature-tracking-shark-clip.GIF) | ![image](./gif/datature-tracking-soccer-clip.GIF)   |
 
 ### Hexapod Robot Simulator (2020)
 
@@ -30,9 +30,9 @@ An _extremely_ lightweight [hexapod simulator](https://github.com/mithi) that yo
 
 - [🔗 👀 Look! A collection of places where Mithi's Hexapod Robot Simulator was mentioned](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md)
 
-| ![image](./gif/hexapod-2.gif) | ![image](./gif/hexapod-4.gif) |
-| ----------------------------- | ----------------------------- |
-| .                             | .                             |
+| ![image](./gif/hexapod-1.gif) | <img src="./gif/hexapod-4.gif" alt="drawing" width="400" /> |
+| ----------------------------- | ----------------------------------------------------------- |
+| .                             | .                                                           |
 
 ### React Philosophies (2021)
 
@@ -49,11 +49,11 @@ At PikaPikaGems, I own product design of two language learning tools from concep
 
 ## Early Talks and Workshops
 
-1. Malicious Attacks to Neural Networks: Adversarial Examples for Humans ~ [📖 Transcript](https://github.com/mithi/sdc-talk). Trend Micro Philippines Decode Event, 2018
+1. Malicious Attacks to Neural Networks: Adversarial Examples for Humans ~ [📖 👀 Transcript](https://github.com/mithi/sdc-talk). Trend Micro Philippines Decode Event, 2018
 2. DIY Self-Racing Cars ~ [🔖 👀 Slides, Materials](https://github.com/mithi/sdc-talk). A workshop problem-solving philosophy, machine learning intuitions, and behavioral cloning. Delivered to Trend Micro Philippines 2018.
-3. Udacity Self Driving Cars Lessons ~ [📺 👀 Watch: Session One](https://youtu.be/UbtnLhvMA8E) (~10 minutes). I was one of three session leads hired to faciliate learning of senior employees at Infosys India 2017. [📖 Read about my experience](https://medium.com/@mithi/2f3995130249)
+3. Udacity Self Driving Cars Lessons ~ [📺 👀 Watch: Session One](https://youtu.be/UbtnLhvMA8E) (~10 minutes). I was one of three session leads hired to faciliate learning of senior employees at Infosys India 2017. [📖 👀 Read about my experience](https://medium.com/@mithi/2f3995130249)
 4. Create Tech Sessions: Reimagining Consumer Experiences with Creative Technology ~ [📺 👀 Watch: Session One](https://www.youtube.com/watch?v=BNNJ5k0AFH0) (~10 minutes, ⚠️ no sound). I conducted sessions to help creatives at Dentsu Jyme Syfu ideate how technology can be creatively applied to brand campaigns, 2016
-5. A Raspberry Pi Hexy: How I Practiced Clean Code and Made a Hexapod Robot Dance ~ [📖 Transcript](https://medium.com/@mithi/a-raspberry-pi-hexy-transcript-62533c69a566) — Python Conference Philippines 2016
+5. A Raspberry Pi Hexy: How I Practiced Clean Code and Made a Hexapod Robot Dance ~ [📖 👀 Transcript](https://medium.com/@mithi/a-raspberry-pi-hexy-transcript-62533c69a566) — Python Conference Philippines 2016
 
 ## Creative Hardware and Early Robotics Education
 
@@ -85,11 +85,11 @@ A ~$30 100% open-source robot designed to make early STEM education accessible �
 
 | ![image](./gif/maya-1.GIF)       | ![image](./gif/maya-2.GIF)   |
 | -------------------------------- | ---------------------------- |
-| ![image](./img/maya-blender.GIF) | ![image](./img/maya-cad.GIF) |
+| ![image](./img/maya-blender.jpg) | ![image](./img/maya-cad.png) |
 
 Maya is the flagship project of Nanica Labs (2014–2016), the robotics education startup I co-founded — a Top 3% finalist (of 500+ applicants) in the [IdeaSpace](https://www.ideaspace.vc/) Startup Competition 2016.
 
-- [🔖 👀: Maya Artifacts (Materials)](https://github.com/nanicalabs/robot-maya)
+- [🔖: Maya Artifacts (Materials)](https://github.com/nanicalabs/robot-maya)
 - [📺 👀 Watch: Looking Back: Nanica Year-end Video (~3 minutes)](https://www.youtube.com/watch?v=rtS7y3G6EyI)
 - [📺 👀 Watch: Ideaspace Pitch (2 minutes)](https://www.youtube.com/watch?v=hNzD0EEuWf8)
 - [🔗 Nanica's Official Blog](https://medium.com/@nanicalabs)
