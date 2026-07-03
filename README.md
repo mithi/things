@@ -28,7 +28,7 @@ One of [Datature](https://datature.io/)'s core capabilities: AI-assisted annotat
 
 An _extremely_ lightweight [hexapod simulator](https://github.com/mithi) that you can run it on a low-end phone — lowering the barrier to exploring inverse kinematics and walking gaits. Featured on Hacker News, Adafruit, and Weekly Robotics among others and found a positive reception in maker communities, notably inspired a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) in China.
 
-- [🔗 👀 Look! A collection of places where Mithi's Hexapod Robot Simulator was mentioned](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md)
+- [🔗 👀 Look! A collection of places where Hexapod Robot Simulator was mentioned](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md)
 
 <table>
   <colgroup>
@@ -57,25 +57,20 @@ At PikaPikaGems, I own product design of two language learning tools from concep
 ## Early Talks and Workshops
 
 1. Malicious Attacks to Neural Networks: Adversarial Examples for Humans. Trend Micro Philippines Decode Event, 2018
-
-- [📖 Transcript](https://github.com/mithi/sdc-talk)
+   - [📖 Transcript](https://github.com/mithi/sdc-talk)
 
 2. DIY Self-Racing Cars: A workshop problem-solving philosophy, machine learning intuitions, and behavioral cloning. Delivered to Trend Micro Philippines 2018.
-
-- [🔖 Slides, Materials](https://github.com/mithi/sdc-talk)
+   - [🔖 Slides, Materials](https://github.com/mithi/sdc-talk)
 
 3. Udacity Self Driving Cars Lessons. I was one of three session leads hired to faciliate learning of senior employees at Infosys India 2017.
-
-- [📖 Read about my experience](https://medium.com/@mithi/2f3995130249)
-- [📺 Watch: Session One](https://youtu.be/UbtnLhvMA8E) (~10 minutes)
+   - [📖 Read about my experience](https://medium.com/@mithi/2f3995130249)
+   - [📺 Watch: Session One](https://youtu.be/UbtnLhvMA8E) (~10 minutes)
 
 4. Create Tech Sessions: Reimagining Consumer Experiences with Creative Technology. I conducted sessions to help creatives at Dentsu Jyme Syfu ideate how technology can be creatively applied to brand campaigns, 2016
-
-- [📺 Watch: Session One](https://www.youtube.com/watch?v=BNNJ5k0AFH0) (~10 minutes, ⚠️ no sound)
+   - [📺 Watch: Session One](https://www.youtube.com/watch?v=BNNJ5k0AFH0) (~10 minutes, ⚠️ no sound)
 
 5. A Raspberry Pi Hexy: How I Practiced Clean Code and Made a Hexapod Robot Dance — Python Conference Philippines 2016
-
-- [📖 Transcript](https://medium.com/@mithi/a-raspberry-pi-hexy-transcript-62533c69a566)
+   - [📖 Transcript](https://medium.com/@mithi/a-raspberry-pi-hexy-transcript-62533c69a566)
 
 ## Creative Hardware and Early Robotics Education
 
@@ -83,9 +78,9 @@ Before web engineering, I helped build physical things — robots for classrooms
 
 ### Probbie: Dentsu Jayme Syfu's Friendly Robot Receptionist (2016)
 
-This child-sized robot with autonomous navigation, person detection, and voice interaction helped[Dentsu Jayme Syfu](http://dentsucreative.ph/) win Campaign Southeast Asia's 2016 Creative Agency of the Year. I was in charge of programming, electronics selection, and overseeing construction.
+This child-sized robot with autonomous navigation, person detection, and voice interaction which helped [Dentsu Jayme Syfu](http://dentsucreative.ph/) win Campaign Southeast Asia's 2016 Creative Agency of the Year. I was in charge of programming, electronics selection, and overseeing construction.
 
-- [📖 Read about my experience](https://medium.com/@mithi/building-a-voice-activated-robot-for-an-advertising-agency-fedaa9f347d3).
+- [📖 Read about my experience](https://medium.com/@mithi/building-a-voice-activated-robot-for-an-advertising-agency-fedaa9f347d3)
 - [📺 Dentsu Jayme Syfu's Probbie Case Video 2017 ](https://www.youtube.com/watch?v=Vm52cbjBIXY) (2-minutes)
 
 | ![image](./gif/probbie-1.GIF) | ![image](./gif/probbie-2.gif) |
@@ -114,6 +109,10 @@ A ~$30 100% open-source robot designed to make early STEM education accessible �
   <tr>
     <td><img src="./gif/maya-1.GIF" width="100%"></td>
     <td><img src="./gif/maya-2.GIF" width="100%"></td>
+    <td><img src="./img/maya-blender.jpg" width="100%"></td>
+    <td><img src="./img/maya-cad.png" width="100%"></td>
+  </tr>
+    <tr>
     <td><img src="./img/maya-blender.jpg" width="100%"></td>
     <td><img src="./img/maya-cad.png" width="100%"></td>
   </tr>
