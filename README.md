@@ -17,7 +17,7 @@ Below are some things I helped bring to life.
 
 One of [Datature](https://datature.io/)'s core capabilities: specialized models turn painstaking manual outlining into a few clicks. I led the UX implementation and design, working closely with backend and ML engineers.
 
-- [📺 👀 Watch: Some interfaces I built at Datature](https://www.youtube.com/watch?v=33zJy7tHo3w) (~2-minutes)
+- 📺 👀 [Watch: Some interfaces I built at Datature](https://www.youtube.com/watch?v=33zJy7tHo3w) (~2-minutes)
 - 📖 Datature Developer Docs: [Video Tracking](https://developers.datature.io/docs/video-tracking), [Everything Mode](https://developers.datature.io/docs/everything), [Intellibrush](https://developers.datature.io/docs/intellibrush)
 
 | ![image](./gif/datature-horses-clip.GIF)         | ![image](./gif/datature-intellibrush-frog-clip.GIF) |
@@ -28,13 +28,13 @@ One of [Datature](https://datature.io/)'s core capabilities: specialized models 
 
 An _extremely_ lightweight [simulator](https://github.com/mithi) that you can run it on a low-end phone — lowering the barrier to exploring inverse kinematics and walking gaits. Featured on Hacker News, Adafruit, and Weekly Robotics among others and found a positive reception in maker communities, notably inspiring a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) in China.
 
-- [🔗 👀 Look! A collection of places where Hexapod Robot Simulator was mentioned](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md)
+- 🔗 👀 [Look! A collection of places where Hexapod Robot Simulator was mentioned](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md)
 
 <table>
   <tr>
     <td width="20%"><img src="./gif/hexapod-3.gif" width="100%"></td>
     <td width="45%"><img src="./gif/hexapod-4.gif" width="100%"></td>
-    <td width="35%"><img src="./gif/hexapod-2.gif" width="100%"></td>
+    <td width="35%"><img src="./gif/hexapod-1.gif" width="100%"></td>
 
   </tr>
 </table>
@@ -43,7 +43,7 @@ An _extremely_ lightweight [simulator](https://github.com/mithi) that you can ru
 
 An [essay](https://github.com/mithi/react-philosophies) exploring software design principles in React — spread by word of mouth into newsletter features, translations, and references from developers internationally, including Japan, Korea, and beyond.
 
-- [🔗 👀 Look! A collection of places where React Philosophies was mentioned](https://github.com/mithi/docs-archive/blob/main/react-philosophies-mentions.md)
+- 🔗 👀 [Look! A collection of places where React Philosophies was mentioned](https://github.com/mithi/docs-archive/blob/main/react-philosophies-mentions.md)
 
 ## Recent Interactive Tools (2025 - Present)
 
@@ -55,20 +55,20 @@ At PikaPikaGems, I own product design of two language learning tools from concep
 ## Early Talks and Workshops
 
 1. Malicious Attacks to Neural Networks: Adversarial Examples for Humans. Trend Micro Philippines Decode Event, 2018
-   - [📖 Transcript](https://github.com/mithi/sdc-talk)
+   - 📖 [Transcript](https://github.com/mithi/sdc-talk)
 
 2. DIY Self-Racing Cars: A workshop problem-solving philosophy, machine learning intuitions, and behavioral cloning. Delivered to Trend Micro Philippines 2018.
-   - [🔖 Slides, Materials](https://github.com/mithi/sdc-talk)
+   - 🔖 [Slides, Materials](https://github.com/mithi/sdc-talk)
 
 3. Udacity Self Driving Cars Lessons. I was one of three session leads hired to faciliate learning of senior employees at Infosys India 2017.
-   - [📖 Read about my experience](https://medium.com/@mithi/2f3995130249)
-   - [📺 Watch: Session One](https://youtu.be/UbtnLhvMA8E) (~10 minutes)
+   - 📖 [Read about my experience](https://medium.com/@mithi/2f3995130249)
+   - 📺 [Watch: Session One](https://youtu.be/UbtnLhvMA8E) (~10 minutes)
 
 4. Create Tech Sessions: Reimagining Consumer Experiences with Creative Technology. I conducted sessions to help creatives at Dentsu Jyme Syfu ideate how technology can be creatively applied to brand campaigns, 2016
-   - [📺 Watch: Session One](https://www.youtube.com/watch?v=BNNJ5k0AFH0) (~10 minutes, ⚠️ no sound)
+   - 📺 [Watch: Session One](https://www.youtube.com/watch?v=BNNJ5k0AFH0) (~10 minutes, ⚠️ no sound)
 
 5. A Raspberry Pi Hexy: How I Practiced Clean Code and Made a Hexapod Robot Dance — Python Conference Philippines 2016
-   - [📖 Transcript](https://medium.com/@mithi/a-raspberry-pi-hexy-transcript-62533c69a566)
+   - 📖 [Transcript](https://medium.com/@mithi/a-raspberry-pi-hexy-transcript-62533c69a566)
 
 ## Creative Hardware and Early Robotics Education
 
@@ -78,8 +78,8 @@ Before web engineering, I helped build physical things — robots for classrooms
 
 This child-sized robot with features such as autonomous navigation, person detection, and voice interaction helped [Dentsu Jayme Syfu](http://dentsucreative.ph/) win Campaign Southeast Asia's 2016 Creative Agency of the Year. I was in charge of programming, electronics selection, and overseeing construction.
 
-- [📖 Read about my experience](https://medium.com/@mithi/building-a-voice-activated-robot-for-an-advertising-agency-fedaa9f347d3)
-- [📺 Dentsu Jayme Syfu's Probbie Case Video 2017 ](https://www.youtube.com/watch?v=Vm52cbjBIXY) (2-minutes)
+- 📖 [Read about my experience](https://medium.com/@mithi/building-a-voice-activated-robot-for-an-advertising-agency-fedaa9f347d3)
+- 📺 [Dentsu Jayme Syfu's Probbie Case Video 2017 ](https://www.youtube.com/watch?v=Vm52cbjBIXY) (2-minutes)
 
 | ![image](./gif/probbie-1.GIF) | ![image](./gif/probbie-2.gif) |
 | ----------------------------- | ----------------------------- |
@@ -93,7 +93,7 @@ A robotic body moved by a houseplant's own biosignals — artist Daniel Slåttne
 | ----------------------------------- | ----------------------------------- |
 | .                                   | .                                   |
 
-- [🔗 Daniel Slåttnes Official Website](https://slaattnes.com/)
+- 🔗 [Daniel Slåttnes Official Website](https://slaattnes.com/)
 
 ### Maya: The Affordable Robot For Everyone (2015)
 
@@ -112,9 +112,9 @@ A ~$30 100% open-source robot designed to make early STEM education accessible �
 
 Maya is the flagship project of Nanica Labs (2014–2016), the robotics education startup I co-founded — a top 3% finalist (of 500+ applicants) in the [IdeaSpace](https://www.ideaspace.vc/) Startup Competition 2016.
 
-- [🔖 Maya Artifacts (Materials)](https://github.com/nanicalabs/robot-maya)
-- [📺 Watch: Looking Back: Nanica Year-end Video](https://www.youtube.com/watch?v=rtS7y3G6EyI) (~3 minutes)
-- [📺 Watch: Ideaspace Pitch](https://www.youtube.com/watch?v=hNzD0EEuWf8) (~2 minutes)
-- [🔗 Nanica's Official Blog](https://medium.com/@nanicalabs)
+- 🔖 [Maya Artifacts (Materials)](https://github.com/nanicalabs/robot-maya)
+- 📺 [Watch: Looking Back: Nanica Year-end Video](https://www.youtube.com/watch?v=rtS7y3G6EyI) (~3 minutes)
+- 📺 [Watch: Ideaspace Pitch](https://www.youtube.com/watch?v=hNzD0EEuWf8) (~2 minutes)
+- 🔗 [Nanica's Official Blog](https://medium.com/@nanicalabs)
 
 _Last updated: July 2026_
