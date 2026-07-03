@@ -1,6 +1,6 @@
 # (Mithi) Shulamith Sevilla - Selected Works
 
-Hi, I'm Mithi — a frontend engineer and former robotics teacher / creative technologist. Currently, I'm most interested in designing and developing human-AI interfaces that leave people more skillful, more deliberate, and happier than they found them. View my [Resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing), [GitHub](https://github.com/mithi/) or [Medium](https://medium.com/@mithi).
+Hi, I'm Mithi — a frontend engineer and former robotics teacher / creative technologist. Currently, I'm most interested in designing and developing human-AI interfaces that leave people more skillful, more deliberate, and happier than they found them. View my [Resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing), [GitHub](https://github.com/mithi/), [LinkedIn](https://www.linkedin.com/in/minimithi/), or [Medium](https://medium.com/@mithi).
 
 Below are some things I helped bring to life.
 
@@ -30,9 +30,9 @@ An _extremely_ lightweight [hexapod simulator](https://github.com/mithi) that yo
 
 - [🔗 👀 Look! A collection of places where Mithi's Hexapod Robot Simulator was mentioned](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md)
 
-| ![image](./gif/hexapod-1.gif) | <img src="./gif/hexapod-4.gif" alt="drawing" width="400" /> |
-| ----------------------------- | ----------------------------------------------------------- |
-| .                             | .                                                           |
+| <img src="./gif/hexapod-1.gif" alt="drawing" width="400" /> | <img src="./gif/hexapod-4.gif" alt="drawing" width="400" /> |
+| ----------------------------------------------------------- | ----------------------------------------------------------- |
+| .                                                           | .                                                           |
 
 ### React Philosophies (2021)
 
@@ -49,11 +49,26 @@ At PikaPikaGems, I own product design of two language learning tools from concep
 
 ## Early Talks and Workshops
 
-1. Malicious Attacks to Neural Networks: Adversarial Examples for Humans ~ [📖 👀 Transcript](https://github.com/mithi/sdc-talk). Trend Micro Philippines Decode Event, 2018
-2. DIY Self-Racing Cars ~ [🔖 👀 Slides, Materials](https://github.com/mithi/sdc-talk). A workshop problem-solving philosophy, machine learning intuitions, and behavioral cloning. Delivered to Trend Micro Philippines 2018.
-3. Udacity Self Driving Cars Lessons ~ [📺 👀 Watch: Session One](https://youtu.be/UbtnLhvMA8E) (~10 minutes). I was one of three session leads hired to faciliate learning of senior employees at Infosys India 2017. [📖 👀 Read about my experience](https://medium.com/@mithi/2f3995130249)
-4. Create Tech Sessions: Reimagining Consumer Experiences with Creative Technology ~ [📺 👀 Watch: Session One](https://www.youtube.com/watch?v=BNNJ5k0AFH0) (~10 minutes, ⚠️ no sound). I conducted sessions to help creatives at Dentsu Jyme Syfu ideate how technology can be creatively applied to brand campaigns, 2016
-5. A Raspberry Pi Hexy: How I Practiced Clean Code and Made a Hexapod Robot Dance ~ [📖 👀 Transcript](https://medium.com/@mithi/a-raspberry-pi-hexy-transcript-62533c69a566) — Python Conference Philippines 2016
+1. Malicious Attacks to Neural Networks: Adversarial Examples for Humans. Trend Micro Philippines Decode Event, 2018
+
+- [📖 Transcript](https://github.com/mithi/sdc-talk)
+
+2. DIY Self-Racing Cars: A workshop problem-solving philosophy, machine learning intuitions, and behavioral cloning. Delivered to Trend Micro Philippines 2018.
+
+- [🔖 Slides, Materials](https://github.com/mithi/sdc-talk)
+
+3. Udacity Self Driving Cars Lessons. I was one of three session leads hired to faciliate learning of senior employees at Infosys India 2017.
+
+- [📖 Read about my experience](https://medium.com/@mithi/2f3995130249)
+- [📺 Watch: Session One](https://youtu.be/UbtnLhvMA8E) (~10 minutes)
+
+4. Create Tech Sessions: Reimagining Consumer Experiences with Creative Technology. I conducted sessions to help creatives at Dentsu Jyme Syfu ideate how technology can be creatively applied to brand campaigns, 2016
+
+- [📺 Watch: Session One](https://www.youtube.com/watch?v=BNNJ5k0AFH0) (~10 minutes, ⚠️ no sound)
+
+5. A Raspberry Pi Hexy: How I Practiced Clean Code and Made a Hexapod Robot Dance — Python Conference Philippines 2016
+
+- [📖 Transcript](https://medium.com/@mithi/a-raspberry-pi-hexy-transcript-62533c69a566)
 
 ## Creative Hardware and Early Robotics Education
 
@@ -61,9 +76,10 @@ Before web engineering, I helped build physical things — robots for classrooms
 
 ### Probbie: Dentsu Jayme Syfu's Friendly Robot Receptionist (2016)
 
-This child-sized robot with autonomous navigation, person detection, and voice interaction helped[Dentsu Jayme Syfu](http://dentsucreative.ph/) win Campaign Southeast Asia's 2016 Creative Agency of the Year. I was in charge of programming, electronics selection, and overseeing construction. [📖 Read about my experience](https://medium.com/@mithi/building-a-voice-activated-robot-for-an-advertising-agency-fedaa9f347d3).
+This child-sized robot with autonomous navigation, person detection, and voice interaction helped[Dentsu Jayme Syfu](http://dentsucreative.ph/) win Campaign Southeast Asia's 2016 Creative Agency of the Year. I was in charge of programming, electronics selection, and overseeing construction.
 
-- [📺 👀 Dentsu Jayme Syfu's Probbie Case Video 2017 ](https://www.youtube.com/watch?v=Vm52cbjBIXY) (10-minutes)
+- [📖 Read about my experience](https://medium.com/@mithi/building-a-voice-activated-robot-for-an-advertising-agency-fedaa9f347d3).
+- [📺 Dentsu Jayme Syfu's Probbie Case Video 2017 ](https://www.youtube.com/watch?v=Vm52cbjBIXY) (10-minutes)
 
 | ![image](./gif/probbie-1.GIF) | ![image](./gif/probbie-2.gif) |
 | ----------------------------- | ----------------------------- |
@@ -89,9 +105,9 @@ A ~$30 100% open-source robot designed to make early STEM education accessible �
 
 Maya is the flagship project of Nanica Labs (2014–2016), the robotics education startup I co-founded — a Top 3% finalist (of 500+ applicants) in the [IdeaSpace](https://www.ideaspace.vc/) Startup Competition 2016.
 
-- [🔖: Maya Artifacts (Materials)](https://github.com/nanicalabs/robot-maya)
-- [📺 👀 Watch: Looking Back: Nanica Year-end Video (~3 minutes)](https://www.youtube.com/watch?v=rtS7y3G6EyI)
-- [📺 👀 Watch: Ideaspace Pitch (2 minutes)](https://www.youtube.com/watch?v=hNzD0EEuWf8)
+- [🔖 Maya Artifacts (Materials)](https://github.com/nanicalabs/robot-maya)
+- [📺 Watch: Looking Back: Nanica Year-end Video (~3 minutes)](https://www.youtube.com/watch?v=rtS7y3G6EyI)
+- [📺 Watch: Ideaspace Pitch (2 minutes)](https://www.youtube.com/watch?v=hNzD0EEuWf8)
 - [🔗 Nanica's Official Blog](https://medium.com/@nanicalabs)
 
 _Last updated: July 2026_
