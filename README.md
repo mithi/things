@@ -7,9 +7,8 @@ Below are some things I helped bring to life.
 ## Contents
 
 1. [Highlighted Projects](#highlighted-projects)
-2. [Recent Interactive Tools](#recent-interactive-tools-2025---present)
-3. [Early Talks and Workshops](#early-talks-and-workshops)
-4. [Creative Hardware and Early Robotics Education](#creative-hardware-and-early-robotics-education)
+2. [Early Talks and Workshops](#early-talks-and-workshops)
+3. [Creative Hardware and Early Robotics Education](#creative-hardware-and-early-robotics-education)
 
 ## Highlighted Projects
 
@@ -45,7 +44,7 @@ An [essay](https://github.com/mithi/react-philosophies) exploring software desig
 
 - 🔗 👀 [Look! A collection of places where React Philosophies was mentioned](https://github.com/mithi/docs-archive/blob/main/react-philosophies-mentions.md)
 
-## Recent Interactive Tools (2025 - Present)
+### Recent Interactive Tools (2025 - Present)
 
 At PikaPikaGems, I own product design of two language learning tools from concept to execution while helping backend with decisions, architecture, and delivery.
 
@@ -74,6 +73,16 @@ At PikaPikaGems, I own product design of two language learning tools from concep
 
 Before web engineering, I helped build physical things — robots for classrooms, ad agencies, and art collaborations.
 
+### Plant Cyborgs — with artist Daniel Slåttnes (2017, 2020)
+
+A robotic body moved by a houseplant's own biosignals — artist Daniel Slåttnes' work exhibited in events like Meta.Morf X Biennale (2020) and the Arctic Arts Festival (2021). I was commissioned to do calibration, movement programming, and sensors/electronics integration support.
+
+- 🔗 [Daniel Slåttnes Official Website](https://slaattnes.com/)
+
+| ![image](./gif/plant-cyborgs-1.GIF) | ![image](./gif/plant-cyborgs-2.GIF) |
+| ----------------------------------- | ----------------------------------- |
+| .                                   | .                                   |
+
 ### Probbie: Dentsu Jayme Syfu's Friendly Robot Receptionist (2016)
 
 This child-sized robot with features such as autonomous navigation, person detection, and voice interaction helped [Dentsu Jayme Syfu](http://dentsucreative.ph/) win Campaign Southeast Asia's 2016 Creative Agency of the Year. I was in charge of programming, electronics selection, and overseeing construction.
@@ -84,16 +93,6 @@ This child-sized robot with features such as autonomous navigation, person detec
 | ![image](./gif/probbie-1.GIF) | ![image](./gif/probbie-2.gif) |
 | ----------------------------- | ----------------------------- |
 | .                             | .                             |
-
-### Plant Cyborgs — with artist Daniel Slåttnes (2017, 2020)
-
-A robotic body moved by a houseplant's own biosignals — artist Daniel Slåttnes' work exhibited in events like Meta.Morf X Biennale (2020) and the Arctic Arts Festival (2021). I was commissioned to do calibration, movement programming, and sensors/electronics integration support.
-
-| ![image](./gif/plant-cyborgs-1.GIF) | ![image](./gif/plant-cyborgs-2.GIF) |
-| ----------------------------------- | ----------------------------------- |
-| .                                   | .                                   |
-
-- 🔗 [Daniel Slåttnes Official Website](https://slaattnes.com/)
 
 ### Maya: The Affordable Robot For Everyone (2015)
 
