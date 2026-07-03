@@ -26,18 +26,16 @@ One of [Datature](https://datature.io/)'s core capabilities: AI-assisted annotat
 
 ### Hexapod Robot Simulator (2020)
 
-An _extremely_ lightweight [hexapod simulator](https://github.com/mithi) that you can run it on a low-end phone — lowering the barrier to exploring inverse kinematics and walking gaits. Featured on Hacker News, Adafruit, and Weekly Robotics among others and found a positive reception in maker communities, notably inspired a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) in China.
+An _extremely_ lightweight [hexapod simulator](https://github.com/mithi) that you can run it on a low-end phone — lowering the barrier to exploring inverse kinematics and walking gaits. Featured on Hacker News, Adafruit, and Weekly Robotics among others and found a positive reception in maker communities, notably inspiring a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) in China.
 
 - [🔗 👀 Look! A collection of places where Hexapod Robot Simulator was mentioned](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md)
 
 <table>
   <tr>
-    <td width="50%"><img src="./gif/hexapod-1.gif" width="100%"></td>
-    <td width="50%"><img src="./gif/hexapod-2.gif" width="100%"></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./gif/hexapod-3.gif" width="100%"></td>
-    <td width="50%"><img src="./gif/hexapod-4.gif" width="100%"></td>
+    <td width="35%"><img src="./gif/hexapod-1.gif" width="100%"></td>
+    <td width="40%"><img src="./gif/hexapod-3.gif" width="100%"></td>
+    <td width="25%"><img src="./gif/hexapod-4.gif" width="100%"></td>
+
   </tr>
 </table>
 
