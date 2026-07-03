@@ -1,6 +1,6 @@
 # (Mithi) Shulamith Sevilla - Selected Works
 
-Hi, I'm Mithi — a frontend engineer and former robotics teacher / creative technologist. Currently, I'm most interested in designing and developing human-AI interfaces that leave people more skillful, more deliberate, and happier than they found them. [My Resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing). [My GitHub](https://github.com/mithi/).
+Hi, I'm Mithi — a frontend engineer and former robotics teacher / creative technologist. Currently, I'm most interested in designing and developing human-AI interfaces that leave people more skillful, more deliberate, and happier than they found them. View my [Resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing), [GitHub](https://github.com/mithi/) or [Medium](https://medium.com/@mithi).
 
 Here are some things I helped bring to life.
 
@@ -15,26 +15,30 @@ Here are some things I helped bring to life.
 
 ### AI Assisted Annotation Tools (2022 - 2024)
 
-One of [Datature](https://datature.io/)'s core capabilities: AI-assisted annotation, where specialized models turn painstaking manual outlining into a few clicks. I led the UX design and implementation, working closely with backend and ML engineers.
-
-| ![image](https://mithi.github.io/robotics-blog/v2-ik-ui.gif) | ![image](https://mithi.github.io/robotics-blog/v2-kinematics-ui.gif) |
-| ------------------------------------------------------------ | -------------------------------------------------------------------- |
-| .                                                            | .                                                                    |
+One of [Datature](https://datature.io/)'s core capabilities: AI-assisted annotation, where specialized models turn painstaking manual outlining into a few clicks. I led the UX implementation and design, working closely with backend and ML engineers.
 
 - [📺 👀 Watch: Some interfaces I built at Datature](https://www.youtube.com/watch?v=33zJy7tHo3w) (2-minutes)
 - 📖 Datature Developer Docs: [Video Tracking](https://developers.datature.io/docs/video-tracking), [Everything Mode](https://developers.datature.io/docs/everything), [Intellibrush](https://developers.datature.io/docs/intellibrush)
 
+| ![image](./gif/datature-horses-clip.GIF)         | ![image](./gif/datature-intellibrush-flog-clip.GIF) |
+| ------------------------------------------------ | --------------------------------------------------- |
+| ![image](./gif/datature-tracking-shark-clip.GIF) | ![image](./gif/datature-tracking-socher-clip.GIF)   |
+
 ### Hexapod Robot Simulator (2020)
 
-A [hexapod simulator](https://github.com/mithi) so light-weight you can run it on a low-end phone — lowering the barrier to exploring inverse kinematics and walking gaits. [Featured on Hacker News, Adafruit, and Weekly Robotics](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md), found a positive reception in maker communities, notably inspired a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) .
+An _extremely_ lightweight [hexapod simulator](https://github.com/mithi) that you can run it on a low-end phone — lowering the barrier to exploring inverse kinematics and walking gaits. Featured on Hacker News, Adafruit, and Weekly Robotics among others and found a positive reception in maker communities, notably inspired a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) in China.
 
-| ![image](./gif/hexapod-1.gif) | ![image](./gif/hexapod-2.gif) | ![image](./gif/hexapod-4.gif) |
-| ----------------------------- | ----------------------------- | ----------------------------- |
-| .                             | .                             | .                             |
+- [🔗 👀 Look! A collection of places where Mithi's Hexapod Robot Simulator was mentioned](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md)
+
+| ![image](./gif/hexapod-2.gif) | ![image](./gif/hexapod-4.gif) |
+| ----------------------------- | ----------------------------- |
+| .                             | .                             |
 
 ### React Philosophies (2021)
 
-An [essay](https://github.com/mithi/react-philosophies) exploring software design principles in React — spread by word of mouth into [newsletter features, translations, and references from developers internationally](https://github.com/mithi/docs-archive/blob/main/react-philosophies-mentions.md), including Japan, Korea, and beyond.
+An [essay](https://github.com/mithi/react-philosophies) exploring software design principles in React — spread by word of mouth into newsletter features, translations, and references from developers internationally, including Japan, Korea, and beyond.
+
+- [🔗 👀 Look! A collection of places where React Philosophies was mentioned](https://github.com/mithi/docs-archive/blob/main/react-philosophies-mentions.md)
 
 ## Recent Interactive Tools (2025 - Present)
 
@@ -45,11 +49,11 @@ At PikaPikaGems, I own product design of two language learning tools from concep
 
 ## Early Talks and Workshops
 
-1. Malicious Attacks to Neural Networks: Adversarial Examples for Humans ~ [📖 👀 Transcript](https://github.com/mithi/sdc-talk). Trend Micro Philippines Decode Event, 2018
+1. Malicious Attacks to Neural Networks: Adversarial Examples for Humans ~ [📖 Transcript](https://github.com/mithi/sdc-talk). Trend Micro Philippines Decode Event, 2018
 2. DIY Self-Racing Cars ~ [🔖 👀 Slides, Materials](https://github.com/mithi/sdc-talk). A workshop problem-solving philosophy, machine learning intuitions, and behavioral cloning. Delivered to Trend Micro Philippines 2018.
-3. Udacity Self Driving Cars Lessons ~ [📺 👀 Watch: Session One](https://youtu.be/UbtnLhvMA8E) (~10 minutes). I was one of three session leads hired to faciliate learning of Senior employees at Infosys India 2017. [📖 👀 Read about my experience](https://medium.com/@mithi/2f3995130249)
+3. Udacity Self Driving Cars Lessons ~ [📺 👀 Watch: Session One](https://youtu.be/UbtnLhvMA8E) (~10 minutes). I was one of three session leads hired to faciliate learning of senior employees at Infosys India 2017. [📖 Read about my experience](https://medium.com/@mithi/2f3995130249)
 4. Create Tech Sessions: Reimagining Consumer Experiences with Creative Technology ~ [📺 👀 Watch: Session One](https://www.youtube.com/watch?v=BNNJ5k0AFH0) (~10 minutes, ⚠️ no sound). I conducted sessions to help creatives at Dentsu Jyme Syfu ideate how technology can be creatively applied to brand campaigns, 2016
-5. A Raspberry Pi Hexy: How I Practiced Clean Code and Made a Hexapod Robot Dance ~ [📖 👀 Transcript](https://medium.com/@mithi/a-raspberry-pi-hexy-transcript-62533c69a566) — Python Conference Philippines 2016
+5. A Raspberry Pi Hexy: How I Practiced Clean Code and Made a Hexapod Robot Dance ~ [📖 Transcript](https://medium.com/@mithi/a-raspberry-pi-hexy-transcript-62533c69a566) — Python Conference Philippines 2016
 
 ## Creative Hardware and Early Robotics Education
 
@@ -57,13 +61,13 @@ Before web engineering, I helped build physical things — robots for classrooms
 
 ### Probbie: Dentsu Jayme Syfu's Friendly Robot Receptionist (2016)
 
-This child-sized robot with autonomous navigation, person detection, and voice interaction helped Dentsu Jayme Syfu win Campaign Southeast Asia's 2016 Creative Agency of the Year. I was in charge of programming, electronics selection, and overseeing construction. [📖 👀 Read about my experience](https://medium.com/@mithi/building-a-voice-activated-robot-for-an-advertising-agency-fedaa9f347d3)
+This child-sized robot with autonomous navigation, person detection, and voice interaction helped[Dentsu Jayme Syfu](http://dentsucreative.ph/) win Campaign Southeast Asia's 2016 Creative Agency of the Year. I was in charge of programming, electronics selection, and overseeing construction. [📖 Read about my experience](https://medium.com/@mithi/building-a-voice-activated-robot-for-an-advertising-agency-fedaa9f347d3).
+
+- [📺 👀 Dentsu Jayme Syfu's Probbie Case Video 2017 ](https://www.youtube.com/watch?v=Vm52cbjBIXY) (10-minutes)
 
 | ![image](./gif/probbie-1.GIF) | ![image](./gif/probbie-2.gif) |
 | ----------------------------- | ----------------------------- |
 | .                             | .                             |
-
-- [📺 👀 Probbie Case Video 2017 from Dentsu Jayme Syfu (10-minutes)](https://www.youtube.com/watch?v=Vm52cbjBIXY)
 
 ### Plant Cyborgs — with artist Daniel Slåttnes (2017, 2020)
 
@@ -75,7 +79,7 @@ A robotic body moved by a houseplant's own biosignals — artist Daniel Slåttne
 
 - [🔗 Daniel Slåttnes Official Website](https://slaattnes.com/)
 
-### Maya: Affordable Robot For Everyone (2015)
+### Maya: The Affordable Robot For Everyone (2015)
 
 A ~$30 100% open-source robot designed to make early STEM education accessible — CAD files, PCB designs, and lesson plans all freely downloadable.
 
@@ -83,7 +87,7 @@ A ~$30 100% open-source robot designed to make early STEM education accessible �
 | -------------------------------- | ---------------------------- |
 | ![image](./img/maya-blender.GIF) | ![image](./img/maya-cad.GIF) |
 
-Maya is the flagship project of Nanica Labs (2014–2016), the robotics education startup I co-founded — a Top 3% finalist (of 500+ applicants) in the IdeaSpace Startup Competition 2016.
+Maya is the flagship project of Nanica Labs (2014–2016), the robotics education startup I co-founded — a Top 3% finalist (of 500+ applicants) in the [IdeaSpace](https://www.ideaspace.vc/) Startup Competition 2016.
 
 - [🔖 👀: Maya Artifacts (Materials)](https://github.com/nanicalabs/robot-maya)
 - [📺 👀 Watch: Looking Back: Nanica Year-end Video (~3 minutes)](https://www.youtube.com/watch?v=rtS7y3G6EyI)
