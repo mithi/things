@@ -39,6 +39,11 @@ An _extremely_ lightweight [hexapod simulator](https://github.com/mithi) that yo
     <td><img src="./gif/hexapod-1.gif" width="100%"></td>
     <td><img src="./gif/hexapod-4.gif" width="100%"></td>
   </tr>
+  <tr>
+    <td>.</td>
+    <td>.</td>
+  </tr>
+
 </table>
 
 ### React Philosophies (2021)
@@ -109,8 +114,6 @@ A ~$30 100% open-source robot designed to make early STEM education accessible â
   <tr>
     <td><img src="./gif/maya-1.GIF" width="100%"></td>
     <td><img src="./gif/maya-2.GIF" width="100%"></td>
-    <td><img src="./img/maya-blender.jpg" width="100%"></td>
-    <td><img src="./img/maya-cad.png" width="100%"></td>
   </tr>
     <tr>
     <td><img src="./img/maya-blender.jpg" width="100%"></td>
