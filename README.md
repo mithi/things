@@ -49,7 +49,7 @@ An [essay](https://github.com/mithi/react-philosophies) exploring software desig
 At PikaPikaGems, I own product design of two language learning tools from concept to execution while helping backend with decisions, architecture, and delivery.
 
 1. [ririkku.com](https://ririkku.com) - A Japanese song lyric immersion app with AI text analysis and gamified flashcards.
-2. [kanjiheatmap.com](https://kanjiheatmap.com) - A unique kanji study tool built with speed and user experience front and center.
+2. [kanjiheatmap.com](https://kanjiheatmap.com) - An extremely fast kanji study tool designed with user experience and speed front and center.
 
 ## Early Talks and Workshops
 
