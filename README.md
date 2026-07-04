@@ -47,7 +47,7 @@ The [simulator](https://github.com/mithi/hexapod) is so lightweight you can run 
 
 ### Current Projects (2025 - Present)
 
-At PikaPikaGems, I own product design and execution for two tools that support second language acquisition while helping backend with decisions, architecture, and delivery.
+At PikaPikaGems, I own product design and execution for two tools that support second language acquisition. I also help backend with decisions, architecture, and delivery.
 
 1. [ririkku.com](https://ririkku.com) - A fun Japanese song lyric immersion app with AI text analysis and gamified flashcards.
 2. [kanjiheatmap.com](https://kanjiheatmap.com) - A kanji study tool designed with speed and user experience front and center.
