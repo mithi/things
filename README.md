@@ -32,7 +32,7 @@ An [essay](https://github.com/mithi/react-philosophies) exploring software desig
 
 ### Hexapod Robot Simulator (2020)
 
-An _extremely_ lightweight [simulator](https://github.com/mithi) that you can run it on low-end phones — lowering the barrier to exploring inverse kinematics and walking gaits. Featured on Hacker News, Adafruit, and Weekly Robotics among others, it found a positive reception in the maker communities, interestingly inspiring a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) in China.
+The [simulator](https://github.com/mithi) is so lightweight you can run it on low-end phones — lowering the barrier to exploring inverse kinematics and walking gaits. Featured on Hacker News, Adafruit, and Weekly Robotics among others, it found a positive reception in the maker communities, interestingly inspiring a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) in China.
 
 - 🔗 👀 [Look! A collection of places where Hexapod Robot Simulator was mentioned](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md)
 
@@ -49,8 +49,8 @@ An _extremely_ lightweight [simulator](https://github.com/mithi) that you can ru
 
 At PikaPikaGems, I own product design and execution for two tools that support second language acquisition while helping backend with decisions, architecture, and delivery.
 
-1. [ririkku.com](https://ririkku.com) - A Japanese song lyric immersion app with AI text analysis and gamified flashcards.
-2. [kanjiheatmap.com](https://kanjiheatmap.com) - An extremely fast kanji study tool designed with user experience and speed front and center.
+1. [ririkku.com](https://ririkku.com) - A fun Japanese song lyric immersion app with AI text analysis and gamified flashcards.
+2. [kanjiheatmap.com](https://kanjiheatmap.com) - A kanji study tool designed with speed and user experience front and center.
 
 ## Early Talks and Workshops
 
@@ -64,7 +64,7 @@ At PikaPikaGems, I own product design and execution for two tools that support s
    - 📖 [Read about my experience](https://medium.com/@mithi/2f3995130249)
    - 📺 [Watch: Session One](https://youtu.be/UbtnLhvMA8E) (~10 minutes)
 
-4. Create Tech Sessions: Reimagining Consumer Experiences with Creative Technology. I conducted sessions to help creatives ideate how available technology can be applied to brand campaigns, 2016
+4. Reimagining Consumer Experiences with Creative Technology. I conducted sessions to help creatives ideate how available technology can be applied to brand campaigns, 2016
    - 📺 [Watch: Session One](https://www.youtube.com/watch?v=BNNJ5k0AFH0) (~10 minutes, ⚠️ no sound)
 
 5. A Raspberry Pi Hexy: How I Practiced Clean Code and Made a Hexapod Robot Dance — Python Conference Philippines 2016
