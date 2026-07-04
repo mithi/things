@@ -1,6 +1,6 @@
 # (Mithi) Shulamith Sevilla - Selected Works
 
-Hi, I'm Mithi — a frontend engineer and former robotics teacher / creative technologist. What excites me most right now is exploring novel ways to design and build interactive systems (particularly human-AI interfaces) that could encourage people to be smarter, happier, and more skillful. View my [Resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing), [GitHub](https://github.com/mithi/), [LinkedIn](https://www.linkedin.com/in/minimithi/), or [Medium](https://medium.com/@mithi).
+Hi, I'm Mithi — a frontend engineer and former robotics teacher / creative technologist. What excites me most right now is exploring novel ways to design and build interactive systems (particularly human-AI interfaces) that encourage people to be smarter, happier, and more skillful. View my [Resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing), [GitHub](https://github.com/mithi/), [LinkedIn](https://www.linkedin.com/in/minimithi/), or [Medium](https://medium.com/@mithi).
 
 Below are some things I helped bring to life.
 
