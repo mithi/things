@@ -1,6 +1,6 @@
 # (Mithi) Shulamith Sevilla - Selected Works
 
-Hi, I'm Mithi — a frontend engineer and former robotics teacher / creative technologist. Currently, I'm most interested in how human-AI interfaces can help people become smarter, more skillful, and happier. Technology should optimize for human growth, not engagement. View my [Resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing), [GitHub](https://github.com/mithi/), [LinkedIn](https://www.linkedin.com/in/minimithi/), or [Medium](https://medium.com/@mithi).
+Hi, I'm Mithi — a frontend engineer and former robotics teacher / creative technologist. What excites me most right now is exploring novel ways to design and build interactive systems (particularly human-AI interfaces) that could encourage people to be smarter, happier, and more skillful. View my [Resume](https://docs.google.com/document/d/1OlH_3r2XrZcFldRtcRe_oUKvq_N7wvVwd4fasFS9A5o/edit?usp=sharing), [GitHub](https://github.com/mithi/), [LinkedIn](https://www.linkedin.com/in/minimithi/), or [Medium](https://medium.com/@mithi).
 
 Below are some things I helped bring to life.
 
@@ -89,7 +89,7 @@ Robotic body movements guided by a house plant's own biosignals — Norwegian ar
 This child-sized robot with features such as autonomous navigation, person detection, and voice interaction helped [Dentsu Jayme Syfu](http://dentsucreative.ph/) win Campaign Southeast Asia's 2016 Creative Agency of the Year. I was in charge of programming, electronics selection, and overseeing construction.
 
 - 📖 [Read about my experience](https://medium.com/@mithi/building-a-voice-activated-robot-for-an-advertising-agency-fedaa9f347d3)
-- 📺 [Dentsu Jayme Syfu's Probbie Case Video 2017 ](https://www.youtube.com/watch?v=Vm52cbjBIXY) (2-minutes)
+- 📺 [Dentsu Jayme Syfu's Probbie Case Study Video](https://www.youtube.com/watch?v=Vm52cbjBIXY), 2017 (2-minutes)
 
 | ![image](./gif/probbie-1.GIF) | ![image](./gif/probbie-2.gif) |
 | ----------------------------- | ----------------------------- |
