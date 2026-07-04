@@ -32,7 +32,7 @@ An [essay](https://github.com/mithi/react-philosophies) exploring software desig
 
 ### Hexapod Robot Simulator (2020)
 
-The [simulator](https://github.com/mithi) is so lightweight you can run it on low-end phones — lowering the barrier to exploring inverse kinematics and walking gaits. Featured on Hacker News, Adafruit, and Weekly Robotics among others, it found a positive reception in the maker communities, interestingly inspiring a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) in China.
+The [simulator](https://github.com/mithi/hexapod) is so lightweight you can run it on low-end phones — lowering the barrier to exploring inverse kinematics and walking gaits. Featured on Hacker News, Adafruit, and Weekly Robotics among others, it found a positive reception in the maker communities, interestingly inspiring a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) in China.
 
 - 🔗 👀 [Look! A collection of places where Hexapod Robot Simulator was mentioned](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md)
 
@@ -60,7 +60,7 @@ At PikaPikaGems, I own product design and execution for two tools that support s
 2. DIY Self-Racing Cars: A workshop problem-solving philosophy, machine learning intuitions, and behavioral cloning. Delivered to Trend Micro Philippines 2018.
    - 🔖 [Slides, Materials](https://github.com/mithi/sdc-talk)
 
-3. Udacity Self Driving Cars Lessons. I was one of three instructors hired to faciliate learning of ninety employees at Infosys India 2017.
+3. Udacity Self Driving Cars Lessons. I was one of three instructors hired to facilitate learning of ninety employees at Infosys India 2017.
    - 📖 [Read about my experience](https://medium.com/@mithi/2f3995130249)
    - 📺 [Watch: Session One](https://youtu.be/UbtnLhvMA8E) (~10 minutes)
 
