@@ -15,7 +15,7 @@ Below are some things I helped bring to life.
 
 ### AI Assisted Annotation Tools (2022 - 2024)
 
-One of [Datature](https://datature.io/)'s core capabilities: specialized models turn painstaking manual outlining into a few clicks. I was responsible for the UX design and implementation, working closely with sales, backend and machine-learning engineers.
+One of [Datature](https://datature.io/)'s core capabilities: specialized models turn painstaking manual outlining into a few clicks. I was responsible for the UX design and implementation, working closely with project managers, backend and machine-learning engineers.
 
 - 📺 👀 [Watch: Some interfaces I built at Datature](https://www.youtube.com/watch?v=33zJy7tHo3w) (~2-minutes)
 - 📖 Datature Developer Docs: [Video Tracking](https://developers.datature.io/docs/video-tracking), [Everything Mode](https://developers.datature.io/docs/everything), [Intellibrush](https://developers.datature.io/docs/intellibrush)
@@ -45,9 +45,9 @@ The [simulator](https://github.com/mithi/hexapod) is so lightweight you can run 
   </tr>
 </table>
 
-### Current Projects (2025 - Present)
+## Current Projects
 
-At PikaPikaGems, I own product design and execution for two tools that support second language acquisition. I also help backend with decisions, architecture, and delivery.
+At PikaPikaGems, I own product design and execution for two tools that support second language acquisition. I also help backend with decisions, architecture, and delivery. (2025 - Present)
 
 1. [ririkku.com](https://ririkku.com) - A fun Japanese song lyric immersion app with AI text analysis and gamified flashcards.
 2. [kanjiheatmap.com](https://kanjiheatmap.com) - A kanji study tool designed with speed and user experience front and center.
