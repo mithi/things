@@ -57,10 +57,10 @@ At PikaPikaGems, I own product design and execution for two tools that support s
 1. Malicious Attacks to Neural Networks: Adversarial Examples for Humans. Trend Micro Philippines Decode Event, 2018
    - 📖 [Transcript](https://medium.com/@mithi/malicious-attacks-to-neural-networks-8b966793dfe1)
 
-2. DIY Self-Racing Cars: A workshop problem-solving philosophy, machine learning intuitions, and behavioral cloning. Delivered to Trend Micro Philippines 2018.
+2. DIY Self-Racing Cars: a problem-solving philosophy, machine learning intuitions, and behavioral cloning. Delivered to Trend Micro Philippines 2018.
    - 🔖 [Slides, Materials](https://github.com/mithi/sdc-talk)
 
-3. Udacity Self Driving Cars Lessons. I was one of three instructors hired to facilitate learning of ninety employees at Infosys India 2017.
+3. Udacity Self Driving Cars Lessons. I was one of three instructors hired to facilitate learning of ~100 employees at Infosys India 2017.
    - 📖 [Read about my experience](https://medium.com/@mithi/2f3995130249)
    - 📺 [Watch: Session One](https://youtu.be/UbtnLhvMA8E) (~10 minutes)
 
@@ -72,7 +72,7 @@ At PikaPikaGems, I own product design and execution for two tools that support s
 
 ## Creative Hardware and Early Robotics Education
 
-Before web engineering, I helped build physical things such as robots for art exhibitions, ad agencies, and classrooms.
+Before web engineering, I helped build physical things, such as robots for art exhibitions, ad agencies, and classrooms.
 
 ### Plant Cyborgs — with artist Daniel Slåttnes (2017, 2020)
 
