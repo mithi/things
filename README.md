@@ -15,7 +15,7 @@ Below are some things I helped bring to life.
 
 ### AI Assisted Annotation Tools (2022 - 2024)
 
-One of [Datature](https://datature.io/)'s core capabilities: specialized models turn painstaking manual outlining into a few clicks. I was responsible for the UX design and implementation, working closely with project managers, backend and machine-learning engineers.
+One of [Datature](https://datature.io/)'s core capabilities: specialized models turn painstaking manual outlining into a few clicks. I was responsible for the UX design and implementation, working closely with product owners, backend and machine-learning engineers.
 
 - 📺 👀 [Watch: Some interfaces I built at Datature](https://www.youtube.com/watch?v=33zJy7tHo3w) (~2-minutes)
 - 📖 Datature Developer Docs: [Video Tracking](https://developers.datature.io/docs/video-tracking), [Everything Mode](https://developers.datature.io/docs/everything), [Intellibrush](https://developers.datature.io/docs/intellibrush)
@@ -32,22 +32,21 @@ An [essay](https://github.com/mithi/react-philosophies) exploring software desig
 
 ### Hexapod Robot Simulator (2020)
 
-The [simulator](https://github.com/mithi/hexapod) is so lightweight you can run it on low-end phones — lowering the barrier to exploring inverse kinematics and walking gaits. Featured on Hacker News, Adafruit, and Weekly Robotics among others, it found a positive reception in the maker communities, interestingly inspiring a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) in China.
+The [simulator](https://github.com/mithi/hexapod) is so lightweight you can run it on low-end phones — lowering the barrier to exploring inverse kinematics and walking gaits. Featured on Hacker News, Adafruit, and Weekly Robotics among others, it found a positive reception in online maker and robotics self-learning communities, interestingly inspiring a [Python port](https://github.com/XuelongSun/HexapodRobotSimulation) in China.
 
 - 🔗 👀 [Look! A collection of places where Hexapod Robot Simulator was mentioned](https://github.com/mithi/docs-archive/blob/main/hexapod-mentions.md)
 
 <table>
   <tr>
-    <td width="20%"><img src="./gif/hexapod-3.gif" width="100%"></td>
-    <td width="45%"><img src="./gif/hexapod-4.gif" width="100%"></td>
-    <td width="35%"><img src="./gif/hexapod-1.gif" width="100%"></td>
+    <td width="33%"><img src="./gif/hexapod-3.gif" width="100%"></td>
+    <td width="67%"><img src="./gif/hexapod-4.gif" width="100%"></td>
 
   </tr>
 </table>
 
 ## Current Projects
 
-At PikaPikaGems, I own product design and execution for two tools that support second language acquisition. I also help backend with decisions, architecture, and delivery. (2025 - Present)
+At PikaPikaGems, I own product design and execution of two applications for supporting second language acquisition. I also help backend with decisions, architecture, and delivery. (2025 - Present)
 
 1. [ririkku.com](https://ririkku.com) - A fun Japanese song lyric immersion app with AI text analysis and gamified flashcards.
 2. [kanjiheatmap.com](https://kanjiheatmap.com) - A kanji study tool designed with speed and user experience front and center.
@@ -64,7 +63,7 @@ At PikaPikaGems, I own product design and execution for two tools that support s
    - 📖 [Read about my experience](https://medium.com/@mithi/2f3995130249)
    - 📺 [Watch: Session One](https://youtu.be/UbtnLhvMA8E) (~10 minutes)
 
-4. Reimagining Consumer Experiences with Creative Technology. I conducted sessions to help creatives ideate how available technology can be applied to brand campaigns, 2016
+4. Reimagining Consumer Experiences with Creative Technology. I conducted sessions to help creatives ideate how current technology can be applied to brand campaigns, 2016
    - 📺 [Watch: Session One](https://www.youtube.com/watch?v=BNNJ5k0AFH0) (~10 minutes, ⚠️ no sound)
 
 5. A Raspberry Pi Hexy: How I Practiced Clean Code and Made a Hexapod Robot Dance — Python Conference Philippines 2016
@@ -89,7 +88,7 @@ Robotic body movements guided by a house plant's own biosignals — Norwegian ar
 This child-sized robot with features such as autonomous navigation, person detection, and voice interaction helped [Dentsu Jayme Syfu](http://dentsucreative.ph/) win Campaign Southeast Asia's 2016 Creative Agency of the Year. I was in charge of programming, electronics selection, and overseeing construction.
 
 - 📖 [Read about my experience](https://medium.com/@mithi/building-a-voice-activated-robot-for-an-advertising-agency-fedaa9f347d3)
-- 📺 [Dentsu Jayme Syfu's Probbie Case Study Video](https://www.youtube.com/watch?v=Vm52cbjBIXY), 2017 (2-minutes)
+- 📺 [Dentsu Jayme Syfu's Probbie Case Study Video](https://www.youtube.com/watch?v=Vm52cbjBIXY), 2017 (~2-minutes)
 
 | ![image](./gif/probbie-1.GIF) | ![image](./gif/probbie-2.gif) |
 | ----------------------------- | ----------------------------- |
