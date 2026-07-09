@@ -40,7 +40,6 @@ The [simulator](https://github.com/mithi/hexapod) is so lightweight you can run 
   <tr>
     <td width="33%"><img src="./gif/hexapod-3.gif" width="100%"></td>
     <td width="67%"><img src="./gif/hexapod-4.gif" width="100%"></td>
-
   </tr>
 </table>
 
@@ -90,9 +89,16 @@ This child-sized robot with features such as autonomous navigation, person detec
 - 📖 [Read about my experience](https://medium.com/@mithi/building-a-voice-activated-robot-for-an-advertising-agency-fedaa9f347d3)
 - 📺 [Dentsu Jayme Syfu's Probbie Case Study Video](https://www.youtube.com/watch?v=Vm52cbjBIXY), 2017 (~2-minutes)
 
-| ![image](./gif/probbie-1.GIF) | ![image](./gif/probbie-2.gif) |
-| ----------------------------- | ----------------------------- |
-| .                             | .                             |
+<table>
+  <tr>
+    <td width="50%"><img src="./gif/probbie-1.GIF" width="100%"></td>
+    <td width="50%"><img src="./gif/probbie-2.GIF" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="67%"><img src="./img/probbie.png" width="100%"></td>
+    <td width="33%"><img src="./gif/probbie-3.gif" width="100%"></td>
+  </tr>
+</table>
 
 ### Maya: The Affordable Robot For Everyone (2015)
 
