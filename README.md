@@ -19,7 +19,7 @@ Below are some things I helped bring to life.
 
 One of [Datature](https://datature.io/)'s core capabilities: specialized models turn painstaking manual outlining into a few clicks. I was responsible for the UX design and implementation, working closely with product owners, backend and machine-learning engineers.
 
-- 📺 👀 [Watch: Some interfaces I built at Datature](https://www.youtube.com/watch?v=33zJy7tHo3w) (~2-minutes)
+- 📺 👀 [Watch: Some of the interfaces I built at Datature](https://www.youtube.com/watch?v=33zJy7tHo3w) (~2-minutes)
 - 📖 Datature Developer Docs: [Video Tracking](https://developers.datature.io/docs/video-tracking), [Everything Mode](https://developers.datature.io/docs/everything), [Intellibrush](https://developers.datature.io/docs/intellibrush)
 
 | ![image](./gif/datature-horses-clip.GIF)         | ![image](./gif/datature-intellibrush-frog-clip.GIF) |
